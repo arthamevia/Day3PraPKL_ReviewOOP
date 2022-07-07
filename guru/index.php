@@ -36,7 +36,7 @@
         
         
 
-        <center><h2>Mahasiswa</h2></center>
+        <center><h2>mahasiswa</h2></center>
         <!-- CARDs -->
         <div class="container">
         <div class="card">
