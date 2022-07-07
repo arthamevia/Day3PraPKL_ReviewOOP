@@ -36,7 +36,7 @@
             </form>
         </div>
         </nav>
-            <center><h2>guru</h2></center>
+            <center><h2>Guru</h2></center>
     
         <div class="container">
         <div class="card">
