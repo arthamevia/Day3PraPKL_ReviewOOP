@@ -42,7 +42,7 @@
         <div class="card">
             <div class="card-header">
                 <h3>Data Mahasiswa</h3>
-                <center><a href="create.php" class="btn btn-primary">Tambah Data</a></center>
+                <center><a href="create.php" class="btn btn-primary">Tambah data</a></center>
             </div>
             <div class="card-body">
                 <table class="table table-striped">
