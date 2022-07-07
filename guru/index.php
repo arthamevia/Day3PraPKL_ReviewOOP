@@ -45,7 +45,6 @@
                 <center><a href="create.php" class="btn btn-primary">Tambah Data</a></center>
             </div>
             <div class="card-body">
-                <!-- TABLE DOSEN -->
                 <table class="table table-striped">
                     <thead>
                         <tr>

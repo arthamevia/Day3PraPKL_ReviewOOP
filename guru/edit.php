@@ -37,7 +37,7 @@
         </div>
         </nav>
             <center><h2>guru</h2></center>
-        <!-- CARDs -->
+    
         <div class="container">
         <div class="card">
             <div class="card-header">
